@@ -1,0 +1,1 @@
+hi this is ashish and this is my first git repository.
